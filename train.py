@@ -19,6 +19,9 @@ from tqdm import tqdm
 import warnings
 from pathlib import Path
 
+print(torch.version.cuda)  # Shows the CUDA version PyTorch was built with
+print(torch.backends.cudnn.enabled)  # Checks if cuDNN is enabled
+
 def get_all_sentences(ds, lang):
     for item in ds:
         yield item["translation"][lang]
