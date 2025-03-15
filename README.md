@@ -29,7 +29,7 @@ cd Translation-transformer
 ```
 ### 2️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install torch datasets huggingface_hub
 ```
 ### 3️⃣ Train the Model
 ```bash
