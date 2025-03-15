@@ -1,6 +1,6 @@
 # Translation Transformer: English to French
 
-🚀 **State-of-the-Art Neural Machine Translation (NMT) Model**
+🚀 Neural Machine Translation (NMT) Model**
 
 Welcome to my advanced **Translation Transformer**, an English-to-French neural machine translation model built using cutting-edge deep learning techniques. This project demonstrates expertise in **natural language processing (NLP)**, **sequence-to-sequence models**, and **attention mechanisms**, making it a showcase of advanced **machine learning** skills.
 
