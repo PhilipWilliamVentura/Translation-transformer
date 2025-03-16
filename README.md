@@ -12,8 +12,8 @@ Welcome to my advanced **Translation Transformer**, an English-to-French neural 
 
 ## 📌 Technologies Used
 - **Python** 
-- **PyTorch
-- **Hugging Face Transformers** 
+- **PyTorch**
+- **Hugging Face** 
 
 ## 📊 Model Training & Evaluation
 - **Dataset**: Trained on bilingual text corpora (e.g., WMT, OPUS).
