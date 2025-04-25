@@ -16,9 +16,7 @@ Welcome to my advanced **Translation Transformer**, an English-to-French neural 
 - **Hugging Face** 
 
 ## 📊 Model Training & Evaluation
-- **Dataset**: Trained on bilingual text corpora (e.g., WMT, OPUS).
-- **Optimizer**: Adam with warm-up and learning rate scheduling.
-- **Evaluation Metrics**: BLEU score for translation accuracy.
+- **Dataset**: Trained with Hugging Face dataset
 - **Hyperparameter Tuning**: Batch size, attention heads, and hidden dimensions optimized for performance.
 
 ## 🚀 How to Run
